@@ -1,1 +1,1 @@
-This folder contents all the assignments.
+This folder contents some assignments.
